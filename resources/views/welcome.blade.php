@@ -2,6 +2,6 @@
 
 @section('content')
 
-    <h1 class="text-center">Comics</h1>
+    <h1 class="text-center">Comics Homepage</h1>
 
 @endsection
